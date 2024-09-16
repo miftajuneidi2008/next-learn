@@ -1,8 +1,8 @@
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 import Image from "next/image";
-import { lusitana } from "./ui/font";
 import AcmeLogo from "./ui/acme-logo";
+import { lusitana } from "./ui/font";
 
 export default function Page() {
   return (
